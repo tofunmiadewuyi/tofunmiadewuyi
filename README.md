@@ -10,8 +10,8 @@ Also shipping **dbq** (database backup) and **mailarch** (mail archiver).
 
 <table width="100%">
   <tr>
-    <th align="left" width="70%">Stack</th>
-    <th align="left" width="30%">Stack I reach for at 2am</th>
+    <th align="left" width="78%">Stack</th>
+    <th align="left" width="22%" nowrap>2am Stack</th>
   </tr>
   <tr>
     <td valign="top">
@@ -20,6 +20,6 @@ Also shipping **dbq** (database backup) and **mailarch** (mail archiver).
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       <img alt="Node/Nitro" src="https://img.shields.io/badge/Node%2FNitro-339933?style=flat&logo=node.js&logoColor=white" />
     </td>
-    <td valign="top">Zig ⚡<br>Rust 😬</td>
+    <td valign="top" nowrap>Zig ⚡ · Rust 😬</td>
   </tr>
 </table>
