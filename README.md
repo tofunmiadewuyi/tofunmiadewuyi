@@ -4,7 +4,7 @@ Senior Experience Engineer. I make things.
 
 Currently building **Qadence**. Lots of Server-Side Nuxt and Postgres.
 
-Also shipping **dbq** (database backup) and **mailarch** (mail archiver).
+Also shipping **dbq** (database backup), **summon** (app switcher) and **mailarch** (mail archiver).
 
 ---
 
